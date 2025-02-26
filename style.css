@@ -386,8 +386,8 @@ align-items: flex-start;
 }
 .bike4
 {
-    display: flex;
-    justify-content: center;
+/*     display: flex;
+    justify-content: center; */
 }
 .bike5
 {
