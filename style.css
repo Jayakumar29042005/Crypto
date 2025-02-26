@@ -371,7 +371,7 @@ align-items: flex-start;
 }
 .car1 .bike2 img
 {
-   margin-left: 50px;
+/*    margin-left: 50px; */
    margin-top: 50px;
 }
 .bike3
